@@ -54,12 +54,4 @@ class WelcomeComponent extends StatelessWidget {
 
 
 
-//Container(
-    /*     height: 140.h,
-        width: 338.w,
-        margin: EdgeInsets.only(
-          top: 19,
-          left: 5,
-          right: 29,
-        ).r,
-        child: */
+
