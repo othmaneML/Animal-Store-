@@ -1,4 +1,4 @@
-# theme
+# Animals store
 
 A new Flutter project.
 
